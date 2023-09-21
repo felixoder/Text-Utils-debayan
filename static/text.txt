@@ -1,0 +1,2 @@
+Here I had made a fully fledged Django app through out which I had implemented the various text related operations ... Hope you will enjiy it ... THANK YOU
+May ihaa mera source code vii daal saktaa hunn   ... KOi sakk
